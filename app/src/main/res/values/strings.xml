@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name" translatable="false">Naurok hack</string>
+    <string name="teacher_code">Teacher\'s code</string>
+    <string name="button_proceed">Proceed</string>
+    <string name="user_name">Your name</string>
+    <string name="use_session_id">Set session ID</string>
+    <string name="session_id">Session ID</string>
+    <string name="answer_option_correct">Correct</string>
+    <string name="answer_option_incorrect">Incorrect</string>
+    <string name="button_insert_shy">Insert SHY</string>
+    <string name="placeholder_option_is_correct">Is correct</string>
+    <string name="placeholder_option_content">Content</string>
+    <string name="button_open">Open</string>
+
+    <string name="app_version" translatable="false">release 2.3</string>
+    <string name="text_exploit_author">Exploit author:</string>
+    <string name="text_app_author">Application author:</string>
+    <string name="text_quiz_not_found">Quiz not found</string>
+    <string name="text_csrf_error">Cannot extract CSRF tokens.</string>
+    <string name="text_extract_session_author">Automatic session ID extraction written by Assasans</string>
+    <string name="text_app_disabled">Application disabled via DNS record</string>
+    <string name="text_thread_id">Thread ID:</string>
+    <string name="text_thread_name">Thread name:</string>
+    <string name="text_throwable_message">Message:</string>
+    <string name="button_close_application">Close application</string>
+    <string name="text_stacktrace">Stack trace:</string>
+    <string name="title_unhandled_exception">Unhandled exception</string>
+    <string name="action_more">More</string>
+    <string name="action_about">About</string>
+    <string name="text_repeat_count">Repeat count</string>
+    <string name="text_legit_mode">Legit mode</string>
+    <string name="text_score">Score</string>
+    <string name="button_start">Start</string>
+    <string name="text_progress">Progress:</string>
+    <string name="text_quiz_progress">Quiz progress:</string>
+    <string name="button_bot_menu">Bot</string>
+    <string name="text_current_brute_progress">Current code:</string>
+    <string name="button_stop">Stop</string>
+    <string name="edit_code_start">Minimum</string>
+    <string name="edit_code_end">Maximim</string>
+    <string name="button_brute_menu">Code brute</string>
+    <string name="title_bot_activity">Bot</string>
+    <string name="title_brute_activity">Code brute</string>
+    <string name="text_quiz_title">Quiz title</string>
+    <string name="text_quiz_code">Quiz code:</string>
+    <string name="text_null" translatable="false">NULL</string>
+    <string name="title_answers_activity">Answers</string>
+</resources>

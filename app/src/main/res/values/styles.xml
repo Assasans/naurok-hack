@@ -1,0 +1,60 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorAccent">@color/accent</item>
+
+        <item name="titleTextColor">@color/black</item>
+    </style>
+
+    <style name="Toolbar">
+        <item name="theme">@style/ThemeOverlay.AppCompat.ActionBar</item>
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+        <item name="android:background">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="titleTextColor">@color/white</item>
+
+        <item name="title">@string/app_name</item>
+
+        <item name="toolbarNavigationButtonStyle">@style/Toolbar.Button.Navigation.Tinted</item>
+    </style>
+
+    <style name="Toolbar.Button.Navigation.Tinted" parent="Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="android:tint">@color/primary</item>
+    </style>
+
+    <style name="Button.Error" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:backgroundTint">@color/error</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Button.Primary" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:backgroundTint">@color/primary</item>
+        <item name="android:tint">@color/primary</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Button.Secondary" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:backgroundTint">@color/secondary</item>
+        <item name="android:tint">@color/secondary</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Button.Borderless.Primary" parent="Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:tint">@color/primary</item>
+        <item name="android:textColor">@color/primary</item>
+    </style>
+
+    <style name="Button.Borderless.Secondary" parent="Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:tint">@color/secondary</item>
+        <item name="android:textColor">@color/secondary</item>
+    </style>
+
+    <style name="Button.Borderless.Error" parent="Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:tint">@color/error</item>
+        <item name="android:textColor">@color/error</item>
+    </style>
+</resources>

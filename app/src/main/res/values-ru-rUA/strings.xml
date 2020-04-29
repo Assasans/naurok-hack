@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="teacher_code">Код от учителя</string>
+    <string name="button_proceed">Продолжить</string>
+    <string name="user_name">Ваше имя</string>
+    <string name="use_session_id">Указать ID сессии</string>
+    <string name="session_id">ID сессии</string>
+    <string name="answer_option_correct">Верно</string>
+    <string name="answer_option_incorrect">Неверно</string>
+    <string name="button_insert_shy">Вставить SHY</string>
+    <string name="placeholder_option_is_correct">Верно?</string>
+    <string name="placeholder_option_content">Содержимое</string>
+    <string name="button_open">Открыть</string>
+    <string name="text_exploit_author">Автор эксплойта:</string>
+    <string name="text_app_author">Создатель приложения:</string>
+    <string name="text_quiz_not_found">Тест не найден</string>
+    <string name="text_extract_session_author">Автоматическое извлечение ID сессии написал Assasans</string>
+    <string name="text_csrf_error">Не удалось извлечь CSRF токены.</string>
+    <string name="text_app_disabled">Приложение отключено через DNS запись</string>
+    <string name="text_throwable_message">Сообщение:</string>
+    <string name="text_thread_id">ID потока:</string>
+    <string name="text_thread_name">Название потока:</string>
+    <string name="text_stacktrace">Трассировка стека:</string>
+    <string name="button_close_application">Закрыть приложение</string>
+    <string name="title_unhandled_exception">Необработанное исключение</string>
+    <string name="action_more">Больше</string>
+    <string name="action_about">О программе</string>
+    <string name="text_repeat_count">Количество повторов</string>
+    <string name="text_legit_mode">Легитный режим</string>
+    <string name="text_score">Баллы</string>
+    <string name="button_start">Начать</string>
+    <string name="text_progress">Прогресс:</string>
+    <string name="text_quiz_progress">Прогресс теста:</string>
+    <string name="button_bot_menu">Бот</string>
+    <string name="text_current_brute_progress">Текущий код:</string>
+    <string name="button_stop">Остановить</string>
+    <string name="edit_code_start">Минимуим</string>
+    <string name="edit_code_end">Максимум</string>
+    <string name="button_brute_menu">Перебор кодов</string>
+    <string name="title_bot_activity">Бот</string>
+    <string name="title_brute_activity">Перебор кодов</string>
+    <string name="text_quiz_title">Название теста</string>
+    <string name="text_quiz_code">Код теста:</string>
+    <string name="title_answers_activity">Ответы</string>
+</resources>

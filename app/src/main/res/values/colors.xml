@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#43a047</color>
+    <color name="primaryDark">#00701a</color>
+    <color name="secondary">#1e88e5</color>
+    <color name="accent">#f4511e</color>
+
+    <color name="error">#b00020</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="green50">#e8f5e9</color>
+    <color name="green100">#c8e6c9</color>
+    <color name="green200">#a5d6a7</color>
+    <color name="green300">#81c784</color>
+    <color name="green400">#66bb6a</color>
+    <color name="green500">#4caf50</color>
+    <color name="green600">#43a047</color>
+    <color name="green700">#388e3c</color>
+    <color name="green800">#2e7d32</color>
+    <color name="green900">#1b5e20</color>
+
+    <color name="yellow50">#fffde7</color>
+    <color name="yellow100">#fff9c4</color>
+    <color name="yellow200">#fff59d</color>
+    <color name="yellow300">#fff176</color>
+    <color name="yellow400">#ffee58</color>
+    <color name="yellow500">#ffeb3b</color>
+    <color name="yellow600">#fdd835</color>
+    <color name="yellow700">#fbc02d</color>
+    <color name="yellow800">#f9a825</color>
+    <color name="yellow900">#f57f17</color>
+
+    <color name="blue50">#e3f2fd</color>
+    <color name="blue100">#bbdefb</color>
+    <color name="blue200">#90caf9</color>
+    <color name="blue300">#64b5f6</color>
+    <color name="blue400">#42a5f5</color>
+    <color name="blue500">#2196f3</color>
+    <color name="blue600">#1e88e5</color>
+    <color name="blue700">#1976d2</color>
+    <color name="blue800">#1565c0</color>
+    <color name="blue900">#0d47a1</color>
+
+    <color name="red50">#ffebee</color>
+    <color name="red100">#ffcdd2</color>
+    <color name="red200">#ef9a9a</color>
+    <color name="red300">#e57373</color>
+    <color name="red400">#ef5350</color>
+    <color name="red500">#f44336</color>
+    <color name="red600">#e53935</color>
+    <color name="red700">#d32f2f</color>
+    <color name="red800">#c62828</color>
+    <color name="red900">#b71c1c</color>
+
+    <color name="indigo900">#1a237e</color>
+</resources>
